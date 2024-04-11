@@ -43629,7 +43629,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 513px;
+  min-height: 531px;
 }
 
 .u-footer .u-image-1 {
@@ -43664,11 +43664,11 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-list-1 {
   width: 182px;
-  margin: -213px 50px 60px auto;
+  margin: -257px 56px 60px auto;
 }
 
 .u-footer .u-repeater-1 {
-  min-height: 310px;
+  min-height: 372px;
   grid-auto-columns: 100%;
   grid-template-columns: 100%;
   grid-gap: 0px 0px;
@@ -43719,6 +43719,16 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-btn-5 {
+  font-size: 1.25rem;
+  margin: 0 auto 0 0;
+  padding: 0;
+}
+
+.u-footer .u-container-layout-6 {
+  padding: 10px 10px 9px;
+}
+
+.u-footer .u-btn-6 {
   font-size: 1.25rem;
   margin: 0 auto 0 0;
   padding: 0;
@@ -43777,6 +43787,11 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: 5px;
     margin-left: 8px;
   }
+
+  .u-footer .u-btn-6 {
+    margin-top: 5px;
+    margin-left: 8px;
+  }
 }
 @media (max-width: 991px) {
   .u-footer .u-sheet-1 {
@@ -43805,10 +43820,6 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -385px;
     margin-right: 63px;
     margin-bottom: 60px;
-  }
-
-  .u-footer .u-repeater-1 {
-    min-height: 238px;
   }
 
   .u-footer .u-container-layout-1 {
@@ -43850,6 +43861,14 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-btn-5 {
     margin-left: 8px;
   }
+
+  .u-footer .u-container-layout-6 {
+    padding-bottom: 0;
+  }
+
+  .u-footer .u-btn-6 {
+    margin-left: 8px;
+  }
 }
 @media (max-width: 767px) {
   .u-footer .u-sheet-1 {
@@ -43859,10 +43878,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-list-1 {
     margin-top: -355px;
     margin-right: 22px;
-  }
-
-  .u-footer .u-repeater-1 {
-    min-height: 238px;
   }
 }
 @media (max-width: 575px) {
@@ -43898,10 +43913,6 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: -27px;
   }
 
-  .u-footer .u-repeater-1 {
-    min-height: 197px;
-  }
-
   .u-footer .u-btn-1 {
     font-size: 0.875rem;
   }
@@ -43919,6 +43930,10 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-btn-5 {
+    font-size: 0.875rem;
+  }
+
+  .u-footer .u-btn-6 {
     font-size: 0.875rem;
   }
 }
